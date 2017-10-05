@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Softpaopao' Github
 
-You can use the [editor on GitHub](https://github.com/softpaopao/softpaopao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是我的个人Github主页。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作为一个非计算机专业的人来说，对于计算机领域的关注，是一直没有停滞不前的。缺少专业领域的知识，需要慢慢填坑补齐。
 
-### Markdown
+Github 就是一个开始，作为开源大佬的杰作，带来的影响也是超前的。目前的主要关注点，放在了开源领域，包括了GNU/Linux, Python。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+说一点个人的情况吧：
+* 性别：男
+* 爱好：音乐、动漫
+* 关注领域：开源、Linux、Python、树莓派
+* 特长：没什么特长，修电脑不算吧
+* 偶像：嗯，这个年纪还有偶像？嘛，Miwa、Lisa、Aimer，应该也算是啦
+* 喜欢的发行版：OpenSUSE 
+* 工作领域：建筑（不是搬砖的）
+
+# 最新内容
 
 ```markdown
-Syntax highlighted code block
+加入 `Linux中国` 翻译组，通过翻译，提高自己的英语能力。= = 当然，目前来说，还在坚持。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/softpaopao/softpaopao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
