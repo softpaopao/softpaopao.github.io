@@ -1,12 +1,14 @@
 ## Welcome to Softpaopao' Github
 
-这是我的个人Github主页。
+这是我的个人Github主页。:smiley:
+
+:point_right: Github项目链接：https://github.com/softpaopao :point_left:
 
 作为一个非计算机专业的人来说，对于计算机领域的关注，是一直没有停滞不前的。缺少专业领域的知识，需要慢慢填坑补齐。
 
 Github 就是一个开始，作为开源大佬的杰作，带来的影响也是超前的。目前的主要关注点，放在了开源领域，包括了GNU/Linux, Python。
 
-说一点个人的情况吧：
+说一点个人的情况吧： :clap:
 * 性别：男
 * 爱好：音乐、动漫
 * 关注领域：开源、Linux、Python、树莓派
